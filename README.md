@@ -1,1 +1,1 @@
-# .github
+# Hydra project
